@@ -25,24 +25,3 @@ class OperatingSystem:
             self.memory_manager.load(counter, current_instruction)
             
         print(f"{self.memory_manager.dump()}")
-        
-            
-            
-            
-                
-                
-
-            
-          
-        
-        
-        
-            
-            
-        
-        
-        
-        
-        
-        
-        
