@@ -1,0 +1,2 @@
+class LoadingToSecondaryError(Exception):
+    pass
